@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lowaylud.github.io/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/app/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/assets/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/css/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/data/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/includes/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/item/sitemap.html.gz
+Sitemap: https://lowaylud.github.io/src/sitemap.html.gz
